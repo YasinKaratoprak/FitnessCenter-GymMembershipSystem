@@ -1,0 +1,12 @@
+11111111111|Treadmill|30|Light cardio|Fri Apr 24 10:28:08 TRT 2026
+22222222222|Upper Body|45|Push and pull day|Fri Apr 24 10:28:08 TRT 2026
+33333333333|Leg Day|60|Squat focused workout|Fri Apr 24 10:28:08 TRT 2026
+11111111111|Treadmill|30|Light cardio|Fri Apr 24 10:29:54 GMT+03:00 2026
+22222222222|Upper Body|45|Push and pull day|Fri Apr 24 10:29:54 GMT+03:00 2026
+33333333333|Leg Day|60|Squat focused workout|Fri Apr 24 10:29:54 GMT+03:00 2026
+11111111111|Treadmill|30|Light cardio|Fri Apr 24 10:34:44 TRT 2026
+22222222222|Upper Body|45|Push and pull day|Fri Apr 24 10:34:44 TRT 2026
+33333333333|Leg Day|60|Squat focused workout|Fri Apr 24 10:34:44 TRT 2026
+11111111111|Treadmill|30|Light cardio|Fri Apr 24 10:42:23 TRT 2026
+22222222222|Upper Body|45|Push and pull day|Fri Apr 24 10:42:23 TRT 2026
+33333333333|Leg Day|60|Squat focused workout|Fri Apr 24 10:42:23 TRT 2026
